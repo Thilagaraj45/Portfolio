@@ -1,0 +1,14 @@
+.skill{
+    max-width: 1140px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 40px;
+    color: white;
+    border: 1px solid white;
+    padding: 3rem;
+    padding-left: 5rem;
+    padding-inline: 10rem;
+    padding-right: 0%;
+    background-color:black;
+}
